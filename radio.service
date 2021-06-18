@@ -3,7 +3,7 @@ Description=Starter FORMmedia stream.
 
 [Service]
 Type=simple
-ExecStart=/bin/bash /home/pi/formmedia/radio.sh
+ExecStart=/bin/bash /home/pi/form-media/radio.sh
 User=pi
 
 [Install]
